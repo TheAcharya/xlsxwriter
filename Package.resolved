@@ -3,9 +3,10 @@
     {
       "identity" : "libxlsxwriter",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jmcnamara/libxlsxwriter",
+      "location" : "https://github.com/TheAcharya/libxlsxwriter",
       "state" : {
-        "revision" : "7548faa95afdf8ac321136d10eda931683fbf7c6"
+        "revision" : "c89c55122116a829fc1442e784b8026be9868239",
+        "version" : "1.1.7"
       }
     }
   ],
