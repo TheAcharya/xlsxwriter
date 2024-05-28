@@ -1,4 +1,5 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.6
+
 import PackageDescription
 
 let package = Package(
@@ -7,7 +8,7 @@ let package = Package(
         .library(name: "xlsxwriter", targets: ["xlsxwriter"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/jmcnamara/libxlsxwriter", .branchItem("main")),
+        .package(url: "https://github.com/jmcnamara/libxlsxwriter", branch: "main"),
     ],
     targets: [
         .target(
