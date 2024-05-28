@@ -5,8 +5,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jmcnamara/libxlsxwriter",
       "state" : {
-        "branch" : "main",
-        "revision" : "c89c55122116a829fc1442e784b8026be9868239"
+        "revision" : "7548faa95afdf8ac321136d10eda931683fbf7c6"
       }
     }
   ],
